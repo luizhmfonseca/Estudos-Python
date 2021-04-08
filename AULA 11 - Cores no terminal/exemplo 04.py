@@ -1,0 +1,1 @@
+print('\33[1;31;43mOlá, Mundo!\33[m') #comando final é para tirar background que vai até o final da linha 

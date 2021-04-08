@@ -1,0 +1,5 @@
+Nome = input('Qual é o seu nome!')
+Idade = input('Quantos anos você tem?')
+filhos = input('Quantos filhos você tem?')
+ecivil = input('Qual é o seu estado civil?')
+print('Seu nome é {}, tem {} anos de idade, possui {} filhos e seu estado civil é {}'.format(Nome, Idade, filhos, ecivil))

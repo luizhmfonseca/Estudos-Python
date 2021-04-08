@@ -1,0 +1,1 @@
+print('\33[7;30mOlá, Mundo!') # background preto fazendo inversão
