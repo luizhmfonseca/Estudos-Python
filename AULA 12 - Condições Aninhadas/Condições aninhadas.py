@@ -1,0 +1,1 @@
+# if ==== se / elif == abreviação de else if - senão se / else == senão
