@@ -1,3 +1,5 @@
+# Faça um programa que leia um ano qualquer e mostre se ele é "bissexto".
+
 from datetime import date #pegar o ano atual registro no seu computador💻
 ano = int (input('Que ano quer analisar: '))
 if ano == 0:

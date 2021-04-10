@@ -1,3 +1,4 @@
+# Sorteando um item na lista
 import random
 a1 = input('Digite o nome do primeiro aluno: ')
 a2 = input('Digite o nome do segundo aluno: ')

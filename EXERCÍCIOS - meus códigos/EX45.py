@@ -1,3 +1,5 @@
+# CRIE UM PROGRAMA QUE FAÇA O COMPUTADOR JOGAR JOKENPÔ COM VOCÊ.
+
 print('\33[1;35;47mJOGO JOKENPÔ') # ^ código de centralização
 print("\033[0m-=-" * 47)
 import  random #/ CHAMANDO A FUNÇÃO RANDOM
